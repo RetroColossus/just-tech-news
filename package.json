@@ -1,0 +1,26 @@
+{
+  "name": "just-tech-news",
+  "version": "1.0.0",
+  "description": "Get a web server up and running using Sequelize, so that I can create database tables.",
+  "main": "server.js",
+  "start": "node server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RetroColossus/just-tech-news.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RetroColossus/just-tech-news/issues"
+  },
+  "homepage": "https://github.com/RetroColossus/just-tech-news#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.3"
+  }
+}
